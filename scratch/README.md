@@ -1,5 +1,6 @@
 <h3>Ship Skip</h3>
 [🇺🇸 English Description Below | 🇧🇷 Descrição em Português abaixo]
+<br>
 Esse projeto finaliza o primeiro módulo do CC50, no qual o objetivo era fazer um simples jogos com as condições dadas pelo curso!
 Projeto Final: 
 <br>
