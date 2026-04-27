@@ -9,12 +9,18 @@ Esse projeto finaliza o primeiro módulo do CC50, no qual o objetivo era fazer u
 <br>
 🧪 Conceitos aplicados no projeto:
 -> Loops;
+<br>
 -> Condicionais;
+<br>
 -> Variáveis;
+<br>
 -> Broadcast.
 <br>
 🚀 Como testar
 Se você quiser rodar o jogo original:
+<br>
 1. Baixe o arquivo "shipSkip.sb3" aqui no repositório.
+<br>
 2. Acesse o [Scratch Online](https://scratch.mit.edu/projects/editor/).
+<br>
 3. Vá em Arquivo -> Carregar do seu computador.
