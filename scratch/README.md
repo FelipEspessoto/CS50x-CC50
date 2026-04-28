@@ -1,5 +1,6 @@
 <h1>Ship Skip</h1>
 https://scratch.mit.edu/projects/1312847180/
+<br>
 [🇺🇸 English Description Below | 🇧🇷 Descrição em Português abaixo]
 <br>
 Esse projeto finaliza o primeiro módulo do CC50, no qual o objetivo era fazer um simples jogos com as condições dadas pelo curso!
