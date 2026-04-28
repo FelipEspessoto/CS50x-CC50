@@ -7,7 +7,7 @@ Esse projeto finaliza o primeiro módulo do CC50, no qual o objetivo era fazer u
 <br>
 <img width="800" height="450" alt="projetoFinalGif" src="https://github.com/user-attachments/assets/f909a14d-ac91-4484-b621-b22924680588" />
 <br>
-<h3>🧪 Conceitos aplicados no projeto:</h3>
+<bold>🧪 Conceitos aplicados no projeto:</bold>
 <br>
 • Loops;
 <br>
@@ -18,7 +18,7 @@ Esse projeto finaliza o primeiro módulo do CC50, no qual o objetivo era fazer u
 • Broadcast.
 <br>
 <br>
-<h3>🚀 Como testar</h3>
+<bold>🚀 Como testar:</bold>
 Se você quiser rodar o jogo original:
 <br>
 1. Baixe o arquivo "shipSkip.sb3" aqui no repositório.
