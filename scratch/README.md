@@ -1,11 +1,7 @@
 <h1>Ship Skip</h1>
-
+<strong>Play on Scratch:</strong>
+<br>
 [![Play on Scratch](https://img.shields.io/badge/Play%20on-Scratch-orange?style=for-the-badge&logo=scratch)](https://scratch.mit.edu/projects/1312847180/)
-
-<strong>Link:</strong>
-<br>
-https://scratch.mit.edu/projects/1312847180/
-<br>
 <br>
 [🇺🇸 English Description Below | 🇧🇷 Descrição em Português abaixo]
 <br>
