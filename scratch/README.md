@@ -4,7 +4,7 @@
 
 [![Play on Scratch](https://img.shields.io/badge/Play%20on-Scratch-orange?style=for-the-badge&logo=scratch)](https://scratch.mit.edu/projects/1312847180/)
 
-<br>
+
 [🇺🇸 English Description Below | 🇧🇷 Descrição em Português abaixo]
 <br>
 Esse projeto finaliza o primeiro módulo do CC50, no qual o objetivo era fazer um simples jogos com as condições dadas pelo curso!
