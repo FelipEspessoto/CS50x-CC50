@@ -25,3 +25,4 @@ Esse projeto finaliza o primeiro módulo do CC50, no qual o objetivo era fazer u
 2. Acesse o [Scratch Online](https://scratch.mit.edu/projects/editor/).
 <br>
 3. Vá em Arquivo -> Carregar do seu computador.
+<hr>
