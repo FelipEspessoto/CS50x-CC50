@@ -35,7 +35,7 @@ This project ends the Scratch module of CS50x!
 <br>
 <img width="800" height="450" alt="projetoFinalGif" src="https://github.com/user-attachments/assets/f909a14d-ac91-4484-b621-b22924680588" />
 <br>
-<strong>🧪 Applied concepts<strong>
+<strong>🧪 Applied concepts</strong>
 <br>
 • Loops;
 <br>
