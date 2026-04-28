@@ -8,13 +8,14 @@ Esse projeto finaliza o primeiro módulo do CC50, no qual o objetivo era fazer u
 <img width="800" height="450" alt="projetoFinalGif" src="https://github.com/user-attachments/assets/f909a14d-ac91-4484-b621-b22924680588" />
 <br>
 🧪 Conceitos aplicados no projeto:
--> Loops;
 <br>
--> Condicionais;
+• Loops;
 <br>
--> Variáveis;
+• Condicionais;
 <br>
--> Broadcast.
+• Variáveis;
+<br>
+• Broadcast.
 <br>
 🚀 Como testar
 Se você quiser rodar o jogo original:
