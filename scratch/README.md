@@ -1,5 +1,8 @@
 <h1>Ship Skip</h1>
+<strong>Link:</strong>
+<br>
 https://scratch.mit.edu/projects/1312847180/
+<br>
 <br>
 [🇺🇸 English Description Below | 🇧🇷 Descrição em Português abaixo]
 <br>
