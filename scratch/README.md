@@ -18,8 +18,7 @@ Esse projeto finaliza o primeiro módulo do CC50, no qual o objetivo era fazer u
 • Broadcast.
 <br>
 <br>
-<bold>🚀 Como testar:</bold>
-Se você quiser rodar o jogo original:
+<strong>🚀 Como testar se você quiser rodar o jogo original</strong>
 <br>
 1. Baixe o arquivo "shipSkip.sb3" aqui no repositório.
 <br>
