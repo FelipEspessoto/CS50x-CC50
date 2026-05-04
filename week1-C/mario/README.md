@@ -30,4 +30,5 @@ Mario Exercise (Less): The goal was to remake the game pyramids with "hashes" us
 -> Data validation.(do-while).
 <br>
 <h3>Result: </h3>
-<img width="236" height="245" alt="image" src="https://github.com/user-attachments/assets/fb940404-e7e5-4b3b-ae13-60319716bff9"/>
+<img width="259" height="185" alt="image" src="https://github.com/user-attachments/assets/d198fc99-b1ab-4715-8a3b-fe0e0c65ec63" />
+
