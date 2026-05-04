@@ -2,7 +2,7 @@
 Desafio do Mario (Fácil): O objetivo era recriar as pirâmides com "hashes" do jogo Super Mario Bros usando C.
 <br>
 <br>
-<strong></strong>O que aprendi/pratiquei:</strong>
+<strong>O que aprendi/pratiquei:</strong>
 <br>
 -> Lógica/Algoritmos;
 <br>
