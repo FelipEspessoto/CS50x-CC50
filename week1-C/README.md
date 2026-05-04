@@ -1,7 +1,8 @@
 <h1>Linguagem C 🔵</h1>
 Desafio do Mario (Fácil): O objetivo era recriar as pirâmides com "hashes" do jogo Super Mario Bros usando C.
 <br>
-O que aprendi/pratiquei:
+<br>
+<strong></strong>O que aprendi/pratiquei:</strong>
 <br>
 -> Lógica/Algoritmos;
 <br>
