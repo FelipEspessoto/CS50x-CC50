@@ -18,7 +18,7 @@ Desafio do Mario (Fácil): O objetivo era recriar as pirâmides com "hashes" do 
 <hr>
 🇺🇸
 <h1>C Language 🔵</h1>
-Mario Exercise (Less): The goal was remake the game piramyds with "hashes" using only C.
+Mario Exercise (Less): The goal was to remake the game pyramids with "hashes" using only C.
 <br>
 <br>
 <strong>What I've learned/practiced:</strong>
