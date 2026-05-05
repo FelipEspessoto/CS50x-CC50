@@ -31,4 +31,7 @@ Mario Exercise (Less): The goal was to remake the game pyramids with "hashes" us
 <br>
 <h3>Result: </h3>
 <img width="259" height="185" alt="image" src="https://github.com/user-attachments/assets/d198fc99-b1ab-4715-8a3b-fe0e0c65ec63" />
+<hr>
+<h3>Pseudocódigo</h3>
+![Uploading image.png…]()
 
